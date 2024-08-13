@@ -1,0 +1,9 @@
+local_ppg_path = /home/ppg32/Desktop/11.25版本5图形界面/ppgdata
+remote_ppg_path = ppg
+local_radar_path = /home/ppg32/Desktop/11.25版本5图形界面/pulsedata
+remote_radar_path = radar
+ftp_server = 111.230.56.119
+ftp_port = 21
+ftp_username = ftpuser
+ftp_password = Cqu1929.
+ftp_folder = radar_ppg

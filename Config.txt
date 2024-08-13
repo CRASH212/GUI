@@ -1,0 +1,5 @@
+/dev/ttyUSB0
+
+#/dev/ttyUSB0是PPG需要连接的端口号，若无法采集数据可逐次修改为/dev/ttyUSB1 或 /dev/ttyUSB2 或 /dev/ttyUSB3 等等...
+
+
